@@ -5,3 +5,4 @@ This repository contains solutions to all the Lab Problems from the course DSCC1
 1. Classes and Objects in Python - Along with magic functions
 2. Algorithm Runtime Analysis
 3. Stacks
+4. Queues and Deques
